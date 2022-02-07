@@ -5,9 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: VPN UK
     url: $VPN_UK
+    expectedStatusCodes:
+      - 403
     __dangerous__insecure: true
   - name: VPN USA
     url: $VPN_USA
+    expectedStatusCodes:
+      - 403
     __dangerous__insecure: true
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
