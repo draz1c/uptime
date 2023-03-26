@@ -4,18 +4,20 @@
     "url": "$VPN_UK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 350,
-    "timeWeek": 414,
-    "timeMonth": 456,
+    "timeDay": 335,
+    "timeWeek": 402,
+    "timeMonth": 451,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   },
   {
     "name": "VPN USA",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-usa",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
